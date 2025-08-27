@@ -39,6 +39,8 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
-		"@inlang/paraglide-js": "^2.0.0"
+		"@inlang/paraglide-js": "^2.0.0",
+		"sveltekit-superforms": "^2.27.1",
+		"zod": "^3.25.76"
 	}
 }
